@@ -32,6 +32,7 @@ uint32_t data2[]={0x00000000,0x00000000};
 uint32_t Rx_Data[10];
 bool a=0;
 uint8_t i=0;
+//lomntong
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
